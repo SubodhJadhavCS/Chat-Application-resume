@@ -19,7 +19,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone 
+git clone https://github.com/SubodhJadhavCS/Chat-Application-resume.git
 Open in Android Studio and sync dependencies.
 Configure Firebase by adding google-services.json.
 Run the app and start chatting!
